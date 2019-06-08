@@ -1,0 +1,18 @@
+body {
+    background-color: #000000;
+}
+
+.btn-port {
+    background-color: transparent !important;
+    margin-top: 50px;
+    color: #f1f1f1;
+}
+
+.btn-port:hover {
+    border: 1px solid #f1f1f1 !important;
+    transition-duration: 0.5s !important;
+}
+
+.container h3, p {
+    color: #f1f1f1;
+}

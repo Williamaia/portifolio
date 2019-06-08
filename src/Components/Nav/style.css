@@ -1,0 +1,7 @@
+.navbar{
+    background-color: #010101;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #817f7f;
+}

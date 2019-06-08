@@ -1,0 +1,23 @@
+.skills{
+    background-color: #000000;
+}
+
+.skills h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.progress{
+    background-color: #5d5d5d;
+}
+
+.progress-bar-theme{
+    background-color: #f1f1f1;
+}
+
+.skills h4, h2{
+    color: #f1f1f1;
+}
+
+
