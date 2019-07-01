@@ -11,10 +11,15 @@
 .btn-home{
     background-color: white;
     margin-top: 50px;
+    color: #000000;
 }
 
 .btn-home:hover{
     border: 1px solid black;
     transition-duration: 0.5s;
+    color: #424242;
 }
 
+.row-home p{
+    color: #000000;
+}

@@ -1,3 +1,19 @@
+.blog-algn {
+    justify-content: center;
+    align-content: center;
+}
+
+.contentone {
+    margin: 10px;
+    align-items: center;
+}
+
+.contentwo {
+    
+    align-content: center;
+
+}
+
 .blog-container{
     background-color: #f1f1f1 !important;
 }
@@ -14,17 +30,18 @@ bd, ba, p{
 }
 
 .image-blog{
+    margin: 10px;
     margin-top: 10px !important;
     border-radius: 100%;
+}
+
+.container-img {
+    margin-right: 50%;
 }
 
 .img-responsive{
     height: 100% !important;
     width: 100% !important;
-}
-
-#name{
-    margin-left: 10px;
 }
 
 #desc{
@@ -34,23 +51,9 @@ bd, ba, p{
 
 .album-one{
     background-color: #000000;
-    margin-bottom: 50px;
+    margin-bottom: 0;
     border: 10px solid #f1f1f1;
 }
-
-.album-two{
-    background-color: #000000;
-    margin-bottom: 50px;
-    border: 10px solid #f1f1f1;
-}
-
-.album-three{
-    background-color: #000000;
-    margin-bottom: 50px;
-    border: 10px solid #f1f1f1;
-}
-
-
 
 a{
     color: #f1f1f1;

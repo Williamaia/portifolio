@@ -10,6 +10,7 @@ import Blog from "../../Components/Blog";
 
 
 class Main extends Component {
+    
     render() {
         return (
             <Fragment>

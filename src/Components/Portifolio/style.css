@@ -6,6 +6,9 @@ body {
     background-color: transparent !important;
     margin-top: 50px;
     color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .btn-port:hover {
@@ -13,6 +16,36 @@ body {
     transition-duration: 0.5s !important;
 }
 
-.container h3, p {
+.container h3{
     color: #f1f1f1;
+}
+
+.container p{
+    color: #f1f1f1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-portifolio {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.btn-container {
+    margin:  auto;
+}
+
+.item-portifolio {
+    align-self: auto;
+    width: 30%;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.item-portifolio p{
+    font-size: 1.1em;
 }
